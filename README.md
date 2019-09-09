@@ -1,6 +1,6 @@
 
 
-#### ECE670-System Software Design _Project #####
+
 #### Multi-Threaded Webserver ###################
 
 >>make cleanall
